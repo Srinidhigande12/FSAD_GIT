@@ -1,2 +1,2 @@
 Git learning notes
-First project
+Feature update added
